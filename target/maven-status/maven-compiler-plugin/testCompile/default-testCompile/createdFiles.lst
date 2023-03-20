@@ -1,0 +1,11 @@
+pageFactory\global\globalElements.class
+browserFactory\browserFactory.class
+steps\loginSteps.class
+pageFactory\homePage.class
+pageFactory\loginPage.class
+pageFactory\boardPage.class
+seleniumElements\seleniumElements.class
+steps\boardSteps.class
+hooks\appHooks.class
+runner\TestRunner.class
+steps\profileSteps.class
